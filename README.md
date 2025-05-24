@@ -1,5 +1,3 @@
-# Barebone-System
-
 # Authentication System (Static Website)
 
 This project is a static website that simulates an authentication system. It is made with Tailwind CSS, React JS and serves as a visual representation of the authentication features. Please note that this project does not implement actual authentication functionality but is designed to showcase the user interface for authentication-related pages.
